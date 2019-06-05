@@ -1,0 +1,29 @@
+{
+  "name": "tablero_oscar_merino",
+  "version": "1.0.0",
+  "description": "Repaso del examen que no pasamos",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ren1055/Repaso-Examen.git"
+  },
+  "keywords": [
+    "node",
+    "examen",
+    "repaso",
+    "tronados"
+  ],
+  "author": "Oscar Merino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ren1055/Repaso-Examen/issues"
+  },
+  "homepage": "https://github.com/Ren1055/Repaso-Examen#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1"
+  }
+}
