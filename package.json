@@ -24,6 +24,6 @@
   "homepage": "https://github.com/Ren1055/Repaso-Examen#readme",
   "dependencies": {
     "ejs": "^2.6.1",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
